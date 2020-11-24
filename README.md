@@ -6,13 +6,9 @@
 
 ### Proposal
 
-Crime in India has been recorded since the British Raj, with comprehensive statistics now compiled annually by the National Crime Records Bureau(NCRB), under the Ministry of Home Affairs(MHA).
+The National Crime Records Bureau, Under the ministry of Home Affairs,  has been using comprehensive statistics to annually compile Crime In India since the british rule, which started in the 1600’s.  As of 2018 a total of 50 million identifiable crimes were registered nationwide, yielding a 1.3% annual increase in the crime registration. 
 
-As of 2018, a total of 50,74,634 cognizable crimes comprising 31,32,954 Indian Penal Code (IPC) crimes and 19,41,680 Special & Local Laws (SLL) crimes were registered nationwide. Despite showing a 1.3% annual increase in the registration of cases (50,07,044 cases), the crime rate per 100,000 population has slightly come down from 388.6 in 2017 to 383.5 in 2018
-
-This notebook comprises of various facts and infographics about different types of crimes that have taken place in India since the past 18 years (2001-2018)
-
-This dataset contains complete information about various aspects of crimes happened in India from 2001. There are many factors that can be analysed from this dataset. Over all, I hope this dataset helps us to understand better about India.
+The dataset that I am performing this regression analysis on, comes from Kaggle, titled crimes In India. This dataset holds complete information about various aspects of crimes that have taken place in India in a 18 year span, from 2001 to 2018. 
 
 
 
